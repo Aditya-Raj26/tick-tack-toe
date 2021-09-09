@@ -282,7 +282,7 @@ int main()
         case 3:
             return 0;
         default:
-            cout << "OOPs Invalid Option! TRY AGAIN";
+            cout << "oops! Invalid Option! PLEASE TRY AGAIN";
         }
     }
     return 0;
